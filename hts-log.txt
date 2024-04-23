@@ -1,23 +1,21 @@
-HTTrack3.49-2+htsswf+htsjava launched on Sat, 30 Mar 2024 18:45:37 at https://prestoncode.wixsite.com/website-2 +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*..png +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
-(winhttrack -qiC2%Pns2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://prestoncode.wixsite.com/website-2 -O1 "E:\sites\preston-code" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*..png +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 23 Apr 2024 16:00:01 at https://prestoncode.wixsite.com/website-2 +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F HTTrack/3.0x -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://prestoncode.wixsite.com/website-2 -O1 "E:\sites\prest" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-18:45:53	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/ (from https://prestoncode.wixsite.com/website-2)
-18:46:04	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/sitemap.xml (from https://prestoncode.wixsite.com/website-2)
-18:46:04	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/feed.xml (from https://prestoncode.wixsite.com/website-2)
-18:46:04	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/${n.uri} (from https://prestoncode.wixsite.com/website-2)
-18:46:04	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/decodeURIComponent(e (from https://prestoncode.wixsite.com/website-2)
-18:46:04	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/website-2/robots.txt (from https://prestoncode.wixsite.com/website-2/free-pc-games)
-18:46:04	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/website-2/sitemap.xml (from https://prestoncode.wixsite.com/website-2/free-pc-games)
-18:46:04	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/website-2/feed.xml (from https://prestoncode.wixsite.com/website-2/free-pc-games)
-18:46:04	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/website-2/${n.uri} (from https://prestoncode.wixsite.com/website-2/free-pc-games)
-18:46:04	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/website-2/decodeURIComponent(e (from https://prestoncode.wixsite.com/website-2/free-pc-games)
-18:46:15	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/website-2/post/sitemap.xml (from https://prestoncode.wixsite.com/website-2/post/updated-ui)
-18:46:15	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/website-2/post/feed.xml (from https://prestoncode.wixsite.com/website-2/post/updated-ui)
+16:00:25	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/ (from https://prestoncode.wixsite.com/website-2)
+16:00:29	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/sitemap.xml (from https://prestoncode.wixsite.com/website-2)
+16:00:29	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/feed.xml (from https://prestoncode.wixsite.com/website-2)
+16:00:29	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/${n.uri} (from https://prestoncode.wixsite.com/website-2)
+16:00:29	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/decodeURIComponent(e (from https://prestoncode.wixsite.com/website-2)
+16:00:29	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/website-2/robots.txt (from https://prestoncode.wixsite.com/website-2/free-pc-games)
+16:00:29	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/website-2/sitemap.xml (from https://prestoncode.wixsite.com/website-2/free-pc-games)
+16:00:29	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/website-2/feed.xml (from https://prestoncode.wixsite.com/website-2/free-pc-games)
+16:00:29	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/website-2/${n.uri} (from https://prestoncode.wixsite.com/website-2/free-pc-games)
+16:00:29	Error: 	"Not Found" (404) at link https://prestoncode.wixsite.com/website-2/decodeURIComponent(e (from https://prestoncode.wixsite.com/website-2/free-pc-games)
 
-HTTrack Website Copier/3.49-2 mirror complete in 39 seconds : 63 links scanned, 50 files written (13978447 bytes overall), 34 files updated [12085281 bytes received at 309879 bytes/sec], 1037610 bytes transferred using HTTP compression in 19 files, ratio 28%
-(12 errors, 0 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 29 seconds : 38 links scanned, 27 files written (6325082 bytes overall) [1714433 bytes received at 59118 bytes/sec], 6321306 bytes transferred using HTTP compression in 35 files, ratio 25%
+(10 errors, 0 warnings, 0 messages)

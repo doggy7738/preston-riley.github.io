@@ -1,7 +1,8 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-prestoncode.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1711849538|mstpoXM4ZujG
+prestoncode.wixsite.com	TRUE	/website-2/blog	FALSE	1999999999	TS0114ea68	01b84e286a985ae64fa7a19a95a1378c70b3b3e6894d587d5423d69f7c803d11110795ba597d66ceb413930d56c6b78a318e57fc6b9d00a70464839cc47cf7103430521dee
+prestoncode.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1713913203|YDXcdVV-0FwO
 prestoncode.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
-prestoncode.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=hit#varnish=hit#dc#desc=uw2-pub-1_g
-.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	015b43050a7e91eebb33108bb9a11edaf67210ba5cb16d3a3f3172794080f7c00d23556e01a4cc046109647faeb6359c1ad2a6903d
+prestoncode.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=sea1_g
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	015b43050a616e62a24f999e8cc40a7fda5a5c14b481c961d1008f554a287a3b2e6a8e66e64838d335805a85dcd7ab184eec2024e4
 
